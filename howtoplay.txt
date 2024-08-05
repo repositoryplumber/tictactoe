@@ -1,0 +1,5 @@
+each player clicks on an empty square to place their mark.
+first player to get 3 marks in a row wins!
+by repository plumber :)
+
+    
