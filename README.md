@@ -1,5 +1,5 @@
 # Website
 - So i decided to create a website....
 - I deployed it on GitHub Pages (it was suprisingly easy lol)
-- You can find it here:  https://repositoryplumber.github.io/website/
+- You can find it here:  https://repositoryplumber.github.io/tictactoe/
 - `Hope you enjoyed!`
